@@ -1,0 +1,23 @@
+commit 7a0764345d8c6fb61e9dd132de5f2a590410970e
+Author: lliang987 <lu.liang987@gmail.com>
+Date:   Fri Dec 1 17:54:40 2017 -0500
+
+    add gitignore
+
+commit febb1da218f4ee5b219a6bcdacd1d7afb22e14e9
+Author: lliang987 <lu.liang987@gmail.com>
+Date:   Fri Dec 1 17:34:13 2017 -0500
+
+    fil2.txt
+
+commit a7b72e6c687bd5689c18e984045e4f03418ba223
+Author: lliang987 <lu.liang987@gmail.com>
+Date:   Fri Dec 1 17:07:29 2017 -0500
+
+    add two files
+
+commit 96de9462eb203430abf536c8bb294cc065b58776
+Author: lliang987 <lu.liang987@gmail.com>
+Date:   Fri Dec 1 17:04:07 2017 -0500
+
+    added readme.txt
